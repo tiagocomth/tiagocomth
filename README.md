@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: Java, C, Swift, JavaScript.
+  🦄 Linguagens: Java, C, Swift, SwiftUI.
 </p>
 
 <p align="left">
