@@ -1,28 +1,57 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<h2>👋 Olá, eu sou Thiago de Jesus</h2>
 
-<p align="left"> 
-  Olá! Meu nome é Thiago. Sou desenvolvedor com experiência em várias tecnologias e atualmente estou <strong>estudando Java e Swift</strong>.<br>
-  No momento, estou <strong>trabalhando no meu aprendizado em Java e desenvolvendo habilidades com Spring Boot e MongoDB</strong>.
+<p>
+Desenvolvedor iOS com experiência na criação de aplicações nativas escaláveis e focadas em experiência do usuário. Atuo com Swift e boas práticas de arquitetura, priorizando qualidade, testes automatizados e evolução contínua do produto. Tenho foco em entregar soluções robustas que geram impacto real no negócio.
 </p>
 
-<p align="left">
-  🦄 Linguagens: Java, C, Swift.
+<p><a href="https://github.com/thmsgbrt" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://instagram.com/SEU_USERNAME" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a> <a href="https://www.linkedin.com/in/thomas-guibert" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@th.guibert" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
 
-<p align="left">
-  💼 Ferramentas: Spring Boot, MongoDB, Git, Postman.
+<hr/>
+
+<h3>🛠️ Tecnologias & Ferramentas</h3>
+
+<ul>
+  <li><strong>Linguagens & Frameworks:</strong> Swift, SwiftUI, UIKit, Combine, Foundation, Swift Concurrency</li>
+  <li><strong>Arquitetura:</strong> MVVM-C, VIPER, SOLID, Clean Architecture, Coordinator, Dependency Injection</li>
+  <li><strong>Dados & Networking:</strong> Core Data, SwiftData, CloudKit, REST APIs, URLSession, Codable, async/await</li>
+  <li><strong>Ferramentas & Qualidade:</strong> Xcode, Git, Swift Package Manager (SPM), XCTest, XCUITest, CI/CD, GitHub Actions, Xcode Cloud, Firebase, Jira</li>
+  <li><strong>Apple Frameworks:</strong> WidgetKit, AppIntents, ActivityKit, UserNotifications, Vision, Core ML, AVFoundation, Apple Intelligence</li>
+</ul>
+
+<h3>📝 Meus últimos posts</h3>
+
+<ul>
+<li>
+  <a href="https://medium.com/@thiago8jesusaraujo/tdd-no-desenvolvimento-ios-por-que-e-como-aplicar-na-pr%C3%A1tica-887cea1124a1" target="_blank">
+  <strong>TDD no desenvolvimento iOS: por que e como aplicar na prática</strong></a><br/>
+  <em>Entenda os fundamentos do Test-Driven Development e veja como aplicar TDD no iOS para escrever código mais seguro, testável e sustentável.</em>
+</li>
+
+<li>
+  <a href="https://medium.com/@thiago8jesusaraujo/arquitetura-ios-na-pr%C3%A1tica-aplicando-o-mvvm-coordinator-509929bfd67f" target="_blank">
+  <strong>Arquitetura iOS na prática: aplicando o MVVM+Coordinator</strong></a><br/>
+  <em>Uma abordagem prática para organizar responsabilidades, desacoplar navegação e construir aplicações escaláveis utilizando MVVM com Coordinator.</em>
+</li>
+
+<li>
+  <a href="https://medium.com/@thiago8jesusaraujo/auto-layout-no-uikit-guia-completo-3223f8c66f6c" target="_blank">
+  <strong>Auto Layout no UIKit: Guia Completo</strong></a><br/>
+  <em>Um guia detalhado sobre constraints, prioridades e boas práticas para criar interfaces responsivas e bem estruturadas no UIKit.</em>
+</li>
+
+<li>
+  <a href="https://medium.com/@thiago8jesusaraujo/entendendo-o-ciclo-de-vida-de-uma-uiviewcontroller-3b8d90739d30" target="_blank">
+  <strong>Entendendo o Ciclo de Vida de uma UIViewController</strong></a><br/>
+  <em>Explore cada etapa do ciclo de vida de uma UIViewController e aprenda como utilizá-lo corretamente para evitar bugs e melhorar a performance.</em>
+</li>
+
+</ul>
+
+<h3>📫 Entre em Contato</h3>
+
+<p>
+Estou sempre aberto para conversar sobre novos projetos, ideias ou oportunidades na área de desenvolvimento iOS.
 </p>
 
-<p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato comigo: ⤵️
-</p>
-
-<p align="left">
-  <a href="mailto:thiago8jesusaraujo@gmail.com" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:seuemail@gmail.com" alt="Gmail"/></a>
-  <a href="https://www.linkedin.com/in/tiagocomth/" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seu-linkedin" alt="LinkedIn"/></a>
-  <a href="https://api.whatsapp.com/send?phone=5561991208316" title="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=seunumerodetelefone" alt="WhatsApp"/></a>
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/4tigas" alt="Instagram"/></a>
-</p>
+<hr/>
